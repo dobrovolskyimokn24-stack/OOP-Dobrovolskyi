@@ -1,0 +1,15 @@
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\bin\Debug\net10.0\lab7v7.exe
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\bin\Debug\net10.0\lab7v7.deps.json
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\bin\Debug\net10.0\lab7v7.runtimeconfig.json
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\bin\Debug\net10.0\lab7v7.dll
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\bin\Debug\net10.0\lab7v7.pdb
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\lab7v7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\lab7v7.AssemblyInfoInputs.cache
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\lab7v7.AssemblyInfo.cs
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\lab7v7.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\lab7v7.sourcelink.json
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\lab7v7.dll
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\refint\lab7v7.dll
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\lab7v7.pdb
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\lab7v7.genruntimeconfig.cache
+C:\Users\Dell 5510\OOP-Dobrovolskyi\lab7v7\obj\Debug\net10.0\ref\lab7v7.dll
