@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab10v7\\lab11v7\\lab11v7.csproj": {}
+    "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab11v7\\lab11v7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab10v7\\lab11v7\\lab11v7.csproj": {
+    "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab11v7\\lab11v7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab10v7\\lab11v7\\lab11v7.csproj",
+        "projectUniqueName": "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab11v7\\lab11v7.csproj",
         "projectName": "lab11v7",
-        "projectPath": "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab10v7\\lab11v7\\lab11v7.csproj",
+        "projectPath": "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab11v7\\lab11v7.csproj",
         "packagesPath": "C:\\Users\\Dell 5510\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab10v7\\lab11v7\\obj\\",
+        "outputPath": "C:\\Users\\Dell 5510\\OOP-Dobrovolskyi\\lab11v7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell 5510\\AppData\\Roaming\\NuGet\\NuGet.Config"
