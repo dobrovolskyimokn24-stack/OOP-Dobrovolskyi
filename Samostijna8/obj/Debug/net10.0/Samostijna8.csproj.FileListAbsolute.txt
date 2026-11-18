@@ -1,0 +1,15 @@
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\bin\Debug\net10.0\Samostijna8.exe
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\bin\Debug\net10.0\Samostijna8.deps.json
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\bin\Debug\net10.0\Samostijna8.runtimeconfig.json
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\bin\Debug\net10.0\Samostijna8.dll
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\bin\Debug\net10.0\Samostijna8.pdb
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\Samostijna8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\Samostijna8.AssemblyInfoInputs.cache
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\Samostijna8.AssemblyInfo.cs
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\Samostijna8.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\Samostijna8.sourcelink.json
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\Samostijna8.dll
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\refint\Samostijna8.dll
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\Samostijna8.pdb
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\Samostijna8.genruntimeconfig.cache
+C:\Users\Dell 5510\OOP-Dobrovolskyi\Samostijna8\obj\Debug\net10.0\ref\Samostijna8.dll
