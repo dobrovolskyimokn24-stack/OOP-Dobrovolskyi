@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Samostijna14/1.0.0": {
+        "dependencies": {
+          "Polly": "8.9.1"
+        },
+        "runtime": {
+          "Samostijna14.dll": {}
+        }
+      },
+      "Polly/8.9.1": {
+        "dependencies": {
+          "Polly.Core": "8.9.1"
+        },
+        "runtime": {
+          "lib/net10.0/Polly.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.9.1.6313"
+          }
+        }
+      },
+      "Polly.Core/8.9.1": {
+        "runtime": {
+          "lib/net10.0/Polly.Core.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.9.1.6313"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Samostijna14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Polly/8.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2a+6qssytViSYiLuvUb7KeFXRcJQyTf0dWLpvtZLNBohF28oXKVExeKdU2aXXVZlVO0swuEtkhhuCK3gFaJmrw==",
+      "path": "polly/8.9.1",
+      "hashPath": "polly.8.9.1.nupkg.sha512"
+    },
+    "Polly.Core/8.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L0vfggkkI2nDAW9lCFYSqX9g/+3TkVXhAq+sh6owBq656X9XW0kE2NG+dPYGNQGeK66HS1rKHRPWMm1bMv91kw==",
+      "path": "polly.core/8.9.1",
+      "hashPath": "polly.core.8.9.1.nupkg.sha512"
+    }
+  }
+}
